@@ -6,4 +6,4 @@
 ## 使用
   直接将项目中的相应类复制到需要的地方即可;或者下载libs文件夹中的jar包,添加.
 
-
+![expand](https://github.com/qianyue0317/ExpandableContentAdapter/blob/master/expandable.gif) 
