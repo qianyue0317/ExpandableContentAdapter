@@ -1,4 +1,4 @@
-package com.qianyue.expandablecontent.adapter;
+package com.qianyue.expandable.adapter;
 
 import android.animation.ValueAnimator;
 import android.content.Context;
